@@ -1,4 +1,4 @@
-A python project I made at university, for a module called Computational Creativity. 
+A python project I made at university, for a module called Computational Creativity back in April 2022. 
 
 This uses Sentiment Analysis to read an inputted text and generate an image of a planet from the emotions described by the user. 
 
